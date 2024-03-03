@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritesh Mahale</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=everest1508&label=Profile%20views&color=0e75b6&style=flat" alt="everest1508" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Everest1508&label=Profile%20views&color=0e75b6&style=flat" alt="Everest1508" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=everest1508" alt="everest1508" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Everest1508" alt="Everest1508" /></a> </p>
 
 - 🔭 I’m currently working on **FittingsWale.in Backend**
 
