@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FittingsWale.in Backend**
 
-- 🌱 I’m currently learning **Django and Rust**
+- 🌱 I’m currently learning **Django, GO and Rust**
 
 - 👨‍💻 All of my projects are available at [http://iamriiteshmahale.pythonanywhere.com/](http://iamriiteshmahale.pythonanywhere.com/)
 
