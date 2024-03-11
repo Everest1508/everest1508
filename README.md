@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Django, GO and Rust**
 
-- 👨‍💻 All of my projects are available at [http://iamriiteshmahale.pythonanywhere.com/](http://iamriiteshmahale.pythonanywhere.com/)
-
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **riteshmahale15@gmail.com**
