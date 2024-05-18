@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FittingsWale.in Backend**
 
-- 🌱 I’m currently learning **Django, GO and Rust**
+- 🌱 I’m currently learning **Django, GO and Gin**
 
 - 💬 Ask me about **Django**
 
