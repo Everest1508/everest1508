@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Django**
 
-- 📫 How to reach me **riteshmahale15@gmail.com**
+- 📫 How to reach me **contact.riteshmahale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
