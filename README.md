@@ -24,6 +24,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=everest1508&show_icons=true&locale=en&layout=compact" alt="everest1508" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=everest1508&show_icons=true&locale=en" alt="everest1508" /></p>
+<p align="center">
+<a href="http://www.github.com/everest1508">
+  <img src="https://github-readme-stats.vercel.app/api?username=everest1508&show_icons=true&hide=stars,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ritesh's GitHub stats" />
+</a>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Everest1508&theme=dark)](https://git.io/streak-stats)
