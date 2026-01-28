@@ -5,8 +5,6 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Everest1508" alt="Everest1508" /></a> </p>-->
 
-- 🔭 I’m currently working on **FittingsWale.in Backend**
-
 - 🌱 I’m currently learning **Django, GO and Gin**
 
 - 💬 Ask me about **Django**
