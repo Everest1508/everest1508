@@ -9,9 +9,6 @@
     <a href="https://linkedin.com/in/theriteshmahale">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-theriteshmahale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://instagram.com/ritesh_d_mahale">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-ritesh__d__mahale-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
   </p>
 
   <p>
