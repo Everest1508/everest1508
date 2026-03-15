@@ -21,9 +21,11 @@
 <p>
   <img alt="Backend" src="https://img.shields.io/badge/Backend-6366f1?style=for-the-badge" />
   <img alt="APIs" src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
+  <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-0ea5e9?style=for-the-badge" />
   <img alt="Django" src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Databases" src="https://img.shields.io/badge/Databases-374151?style=for-the-badge" />
+  <img alt="Frontend" src="https://img.shields.io/badge/Frontend-22c55e?style=for-the-badge" />
 </p>
 
 <table>
@@ -31,9 +33,9 @@
     <td valign="top" width="60%">
       <b>What I do</b>
       <ul>
-        <li>Backend services, REST APIs, and automation</li>
-        <li>Database design, queries, and performance tuning</li>
-        <li>Clean architecture, testing, and developer tooling</li>
+        <li>Backend is my home turf: APIs, auth, performance, and databases</li>
+        <li>Real-time systems with WebSockets (live updates, chat, presence)</li>
+        <li>Shipping end-to-end features; leveling up frontend fast with agentic/vibe coding</li>
       </ul>
     </td>
     <td valign="top" width="40%">
